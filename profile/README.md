@@ -4,7 +4,7 @@
 
 CodeshiftCommunity is a community-owned global registry and documentation hub for codemods. Providing library maintainers & users with facilities to help write, test, publish and consume codemods in a structured, standardized and familiar way.
 
-_Inspired and built on Facebook's [jscodeshift](https://github.com/facebook/jscodeshift)_
+[💬 Join our community on Discord](https://discord.gg/XGqmKNZ8Rk)
 
 ---
 
