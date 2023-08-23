@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="1000" src="https://github.com/hypermod-io/hypermod-community/raw/main/assets/github-banner.png" alt="Hypermod Logo">
-</p>
+![Hypermod, the ultimate code-evolution toolchain](https://github.com/hypermod-io/.github/assets/3030010/5faa29df-27ae-473a-862b-664e705cd222)
 
 Hypermod is a community-owned global registry and documentation hub for codemods. Providing library maintainers & users with facilities to help write, test, publish and consume codemods in a structured, standardized and familiar way.
 
