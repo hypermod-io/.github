@@ -1,4 +1,8 @@
-![Hypermod, the ultimate code-evolution toolchain](https://github.com/hypermod-io/.github/assets/3030010/5faa29df-27ae-473a-862b-664e705cd222)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hypermod-io/.github/assets/3030010/ca382c0a-b04e-408c-b27f-237f762714a7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hypermod-io/.github/assets/3030010/d54c797c-dcfb-4cfc-90e2-284e1828fc8b">
+  <img alt="Hypermod, the ultimate code-evolution toolchain" src="https://github.com/hypermod-io/.github/assets/3030010/d54c797c-dcfb-4cfc-90e2-284e1828fc8b">
+</picture>
 
 Simplify the complexities of code evolution and migration by placing the transformative power of static analysis in the hands of every developer, empowering them to build, adapt, and innovate like never before.
 
