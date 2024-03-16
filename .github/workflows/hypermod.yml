@@ -1,0 +1,19 @@
+name: Hypermod
+
+on:
+  workflow_dispatch:
+    inputs:
+      deploymentId:
+        description: "The ID of the deployment to run"
+jobs:
+  receive_hypermod_event:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Hypermod CLI
+        uses: hypermod-io/action@v1
+        with:
+          deploymentId: ${{ inputs.deploymentId }}
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
