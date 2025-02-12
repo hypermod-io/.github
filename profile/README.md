@@ -4,17 +4,17 @@
   <img alt="Hypermod, the ultimate code-evolution toolchain" src="https://github.com/hypermod-io/.github/assets/3030010/d54c797c-dcfb-4cfc-90e2-284e1828fc8b">
 </picture>
 
-Simplify the complexities of code evolution and migration by placing the transformative power of static analysis in the hands of every developer, empowering them to build, adapt, and innovate like never before.
+Simplify the complexities of code migration by placing the transformative power of static analysis in the hands of every developer, empowering them to build, adapt, and innovate like never before.
 
 #### WHY
 
-Code evolution has become a never-ending endeavour, our industry devotes incredible amounts of time and energy to migrating between libraries and managing dependencies by hand rather than focusing on innovating key features. We believe static analysis tools are the key however, they are largely underutilized because the necessary infrastructure is missing for them to be viable at scale. 
+Code evolution has become a never-ending endeavour. Our industry devotes incredible amounts of time and energy to migrating between libraries and managing dependencies by hand rather than focusing on innovating key features. We believe static analysis tools are the key; however, they are largely underutilized because the necessary infrastructure is missing for them to be viable at scale. 
 
 #### HOW
 
 Hypermod shifts the way developers handle codebase evolution by democratizing the power of static analysis. We turbocharge your development pipeline, enabling smooth migrations across various repositories and technologies, irrespective of their size and number. _All_ of your code evolves as a single entity.
 
-With Hypermod, every developer gains the ability to harness static analysis to evolve code faster, smarter, and more effectively.
+With Hypermod, every developer can harness static analysis to evolve code faster, smarter, and more effectively.
 
 #### WHAT
 
@@ -28,14 +28,7 @@ By giving you the tools to adapt and evolve, we aim to free your team from the b
 
 ---
 
-🔭 Explore an extensive list of codemods [contributed by the community](https://www.codeshiftcommunity.com/docs/registry).
+🔭 Explore an extensive list of codemods [contributed by the community](https://www.hypermod.io/explore).
 
-✨ [Create](https://www.codeshiftcommunity.com/docs/authoring), [test](https://www.codeshiftcommunity.com/docs/testing) and [publish](https://www.codeshiftcommunity.com/docs/consuming) codemods from anywhere.
+🧠 Up-skill your engineering team using our [guides & resources](https://www.hypermod.io/docs/guides/your-first-codemod).
 
-⚡️ Use our [helpers & testing utilities](https://www.codeshiftcommunity.com/docs/utils) to make writing codemods a breeze.
-
-🧠 Up-skill your engineering team using our [guides & resources](https://www.codeshiftcommunity.com/docs/your-first-codemod).
-
-🎨 Perfect for [Design Systems & Monorepos](https://www.codeshiftcommunity.com/docs/monorepos).
-
-🦄 Bring your own [AST transformer](https://www.codeshiftcommunity.com/docs/css-codemods).
